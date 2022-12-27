@@ -1,6 +1,7 @@
 # Attendence_System
 
 photo store in photos folder /****** number wise ******/
+- photo in jpg format is compulsory
 
 
 Now photo name store in known_faces_names ARRAY like you sote in photos folder
